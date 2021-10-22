@@ -1,0 +1,306 @@
+var: pr
+Folder: sstclim
+File: sstclim/pr/regrid/pr_Amon_CSIRO-Mk3-6-0_sstClim_r1i1p1_000101-003012.nc
+cdo    selmonth: Processed 1 variable over 360 timesteps [1.19s 22MB].
+cdo    selmonth: Processed 1 variable over 360 timesteps [1.02s 22MB].
+cdo    yearsum: Processed 1 variable over 209 timesteps [0.17s 23MB].
+cdo    yearsum: Processed 1 variable over 209 timesteps [0.18s 23MB].
+var: pr
+Folder: sstclim
+File: sstclim/pr/regrid/pr_Amon_inmcm4_sstClim_r1i1p1_185001-187912.nc
+cdo    selmonth: Processed 1 variable over 360 timesteps [1.03s 22MB].
+cdo    selmonth: Processed 1 variable over 360 timesteps [0.75s 22MB].
+cdo    yearsum: Processed 1 variable over 209 timesteps [0.11s 23MB].
+cdo    yearsum: Processed 1 variable over 209 timesteps [0.16s 23MB].
+var: pr
+Folder: sstclim
+File: sstclim/pr/regrid/pr_Amon_IPSL-CM5A-LR_sstClim_r1i1p1_197901-202912.nc
+cdo    selmonth: Processed 1 variable over 612 timesteps [1.23s 22MB].
+cdo    selmonth: Processed 1 variable over 612 timesteps [1.32s 22MB].
+cdo    yearsum: Processed 1 variable over 356 timesteps [0.21s 23MB].
+cdo    yearsum: Processed 1 variable over 356 timesteps [0.22s 23MB].
+var: pr
+Folder: sstclim
+File: sstclim/pr/regrid/pr_Amon_MIROC5_sstClim_r1i1p1_243001-245912.nc
+cdo    selmonth: Processed 1 variable over 360 timesteps [0.51s 22MB].
+cdo    selmonth: Processed 1 variable over 360 timesteps [0.86s 22MB].
+cdo    yearsum: Processed 1 variable over 209 timesteps [0.11s 23MB].
+cdo    yearsum: Processed 1 variable over 209 timesteps [0.11s 23MB].
+var: pr
+Folder: sstclim
+File: sstclim/pr/regrid/pr_Amon_MPI-ESM-LR_sstClim_r1i1p1_185001-187912.nc
+cdo    selmonth: Processed 1 variable over 360 timesteps [1.09s 22MB].
+cdo    selmonth: Processed 1 variable over 360 timesteps [7.60s 22MB].
+cdo    yearsum: Processed 1 variable over 209 timesteps [0.14s 23MB].
+cdo    yearsum: Processed 1 variable over 209 timesteps [0.18s 23MB].
+var: pr
+Folder: sstclim
+File: sstclim/pr/regrid/pr_Amon_MPI-ESM-MR_sstClim_r1i1p1_185001-187912.nc
+cdo    selmonth: Processed 1 variable over 360 timesteps [0.55s 22MB].
+cdo    selmonth: Processed 1 variable over 360 timesteps [0.87s 22MB].
+cdo    yearsum: Processed 1 variable over 209 timesteps [0.12s 23MB].
+cdo    yearsum: Processed 1 variable over 209 timesteps [0.12s 23MB].
+var: pr
+Folder: sstclim
+File: sstclim/pr/regrid/pr_Amon_MRI-CGCM3_sstClim_r1i1p1_185601-188512.nc
+cdo    selmonth: Processed 1 variable over 360 timesteps [0.51s 22MB].
+cdo    selmonth: Processed 1 variable over 360 timesteps [0.74s 22MB].
+cdo    yearsum: Processed 1 variable over 209 timesteps [0.16s 23MB].
+cdo    yearsum: Processed 1 variable over 209 timesteps [0.11s 23MB].
+var: ts
+Folder: sstclim
+File: sstclim/ts/regrid/ts_Amon_CSIRO-Mk3-6-0_sstClim_r1i1p1_000101-003012.nc
+cdo    selmonth: Processed 1 variable over 360 timesteps [1.02s 22MB].
+cdo    selmonth: Processed 1 variable over 360 timesteps [0.91s 22MB].
+cdo    yearmean: Processed 1 variable over 209 timesteps [0.12s 23MB].
+cdo    yearmean: Processed 1 variable over 209 timesteps [0.12s 23MB].
+var: ts
+Folder: sstclim
+File: sstclim/ts/regrid/ts_Amon_inmcm4_sstClim_r1i1p1_185001-187912.nc
+cdo    selmonth: Processed 1 variable over 360 timesteps [1.09s 22MB].
+cdo    selmonth: Processed 1 variable over 360 timesteps [0.81s 22MB].
+cdo    yearmean: Processed 1 variable over 209 timesteps [0.12s 23MB].
+cdo    yearmean: Processed 1 variable over 209 timesteps [0.12s 23MB].
+var: ts
+Folder: sstclim
+File: sstclim/ts/regrid/ts_Amon_IPSL-CM5A-LR_sstClim_r1i1p1_197901-202912.nc
+cdo    selmonth: Processed 1 variable over 612 timesteps [2.13s 22MB].
+cdo    selmonth: Processed 1 variable over 612 timesteps [8.85s 22MB].
+cdo    yearmean: Processed 1 variable over 356 timesteps [0.20s 23MB].
+cdo    yearmean: Processed 1 variable over 356 timesteps [0.26s 23MB].
+var: ts
+Folder: sstclim
+File: sstclim/ts/regrid/ts_Amon_MIROC5_sstClim_r1i1p1_243001-245912.nc
+cdo    selmonth: Processed 1 variable over 360 timesteps [0.97s 22MB].
+cdo    selmonth: Processed 1 variable over 360 timesteps [0.93s 22MB].
+cdo    yearmean: Processed 1 variable over 209 timesteps [0.15s 23MB].
+cdo    yearmean: Processed 1 variable over 209 timesteps [0.11s 23MB].
+var: ts
+Folder: sstclim
+File: sstclim/ts/regrid/ts_Amon_MPI-ESM-LR_sstClim_r1i1p1_185001-187912.nc
+cdo    selmonth: Processed 1 variable over 360 timesteps [1.01s 22MB].
+cdo    selmonth: Processed 1 variable over 360 timesteps [0.75s 22MB].
+cdo    yearmean: Processed 1 variable over 209 timesteps [0.11s 23MB].
+cdo    yearmean: Processed 1 variable over 209 timesteps [0.11s 23MB].
+var: ts
+Folder: sstclim
+File: sstclim/ts/regrid/ts_Amon_MPI-ESM-MR_sstClim_r1i1p1_185001-187912.nc
+cdo    selmonth: Processed 1 variable over 360 timesteps [1.00s 22MB].
+cdo    selmonth: Processed 1 variable over 360 timesteps [0.95s 22MB].
+cdo    yearmean: Processed 1 variable over 209 timesteps [0.11s 23MB].
+cdo    yearmean: Processed 1 variable over 209 timesteps [0.11s 23MB].
+var: ts
+Folder: sstclim
+File: sstclim/ts/regrid/ts_Amon_MRI-CGCM3_sstClim_r1i1p1_185601-188512.nc
+cdo    selmonth: Processed 1 variable over 360 timesteps [1.01s 22MB].
+cdo    selmonth: Processed 1 variable over 360 timesteps [1.36s 22MB].
+cdo    yearmean: Processed 1 variable over 209 timesteps [0.11s 23MB].
+cdo    yearmean: Processed 1 variable over 209 timesteps [0.12s 23MB].
+var: psl
+Folder: sstclim
+File: sstclim/psl/regrid/psl_Amon_CSIRO-Mk3-6-0_sstClim_r1i1p1_000101-003012.nc
+cdo    selmonth: Processed 1 variable over 360 timesteps [7.72s 22MB].
+cdo    selmonth: Processed 1 variable over 360 timesteps [0.91s 22MB].
+cdo    yearmean: Processed 1 variable over 209 timesteps [0.11s 23MB].
+cdo    yearmean: Processed 1 variable over 209 timesteps [0.11s 23MB].
+var: psl
+Folder: sstclim
+File: sstclim/psl/regrid/psl_Amon_inmcm4_sstClim_r1i1p1_185001-187912.nc
+cdo    selmonth: Processed 1 variable over 360 timesteps [1.22s 22MB].
+cdo    selmonth: Processed 1 variable over 360 timesteps [0.97s 22MB].
+cdo    yearmean: Processed 1 variable over 209 timesteps [0.11s 23MB].
+cdo    yearmean: Processed 1 variable over 209 timesteps [0.12s 23MB].
+var: psl
+Folder: sstclim
+File: sstclim/psl/regrid/psl_Amon_IPSL-CM5A-LR_sstClim_r1i1p1_197901-202912.nc
+cdo    selmonth: Processed 1 variable over 612 timesteps [1.76s 22MB].
+cdo    selmonth: Processed 1 variable over 612 timesteps [1.45s 22MB].
+cdo    yearmean: Processed 1 variable over 356 timesteps [0.19s 23MB].
+cdo    yearmean: Processed 1 variable over 356 timesteps [0.27s 23MB].
+var: psl
+Folder: sstclim
+File: sstclim/psl/regrid/psl_Amon_MIROC5_sstClim_r1i1p1_243001-245912.nc
+cdo    selmonth: Processed 1 variable over 360 timesteps [0.99s 22MB].
+cdo    selmonth: Processed 1 variable over 360 timesteps [0.78s 22MB].
+cdo    yearmean: Processed 1 variable over 209 timesteps [0.11s 23MB].
+cdo    yearmean: Processed 1 variable over 209 timesteps [0.11s 23MB].
+var: psl
+Folder: sstclim
+File: sstclim/psl/regrid/psl_Amon_MPI-ESM-LR_sstClim_r1i1p1_185001-187912.nc
+cdo    selmonth: Processed 1 variable over 360 timesteps [1.60s 22MB].
+cdo    selmonth: Processed 1 variable over 360 timesteps [2.12s 22MB].
+cdo    yearmean: Processed 1 variable over 209 timesteps [0.12s 23MB].
+cdo    yearmean: Processed 1 variable over 209 timesteps [0.12s 23MB].
+var: psl
+Folder: sstclim
+File: sstclim/psl/regrid/psl_Amon_MPI-ESM-MR_sstClim_r1i1p1_185001-187912.nc
+cdo    selmonth: Processed 1 variable over 360 timesteps [1.33s 22MB].
+cdo    selmonth: Processed 1 variable over 360 timesteps [7.53s 22MB].
+cdo    yearmean: Processed 1 variable over 209 timesteps [0.12s 23MB].
+cdo    yearmean: Processed 1 variable over 209 timesteps [0.14s 23MB].
+var: psl
+Folder: sstclim
+File: sstclim/psl/regrid/psl_Amon_MRI-CGCM3_sstClim_r1i1p1_185601-188512.nc
+cdo    selmonth: Processed 1 variable over 360 timesteps [1.05s 22MB].
+cdo    selmonth: Processed 1 variable over 360 timesteps [0.82s 22MB].
+cdo    yearmean: Processed 1 variable over 209 timesteps [0.12s 23MB].
+cdo    yearmean: Processed 1 variable over 209 timesteps [0.11s 23MB].
+var: pr
+Folder: piControl
+File: piControl/pr/regrid/pr_Amon_CSIRO-Mk3-6-0_piControl_r1i1p1_000101-050012.nc
+cdo    selmonth: Processed 1 variable over 6000 timesteps [21.01s 25MB].
+cdo    selmonth: Processed 1 variable over 6000 timesteps [22.67s 25MB].
+cdo    yearsum: Processed 1 variable over 3499 timesteps [17.58s 24MB].
+cdo    yearsum: Processed 1 variable over 3499 timesteps [10.81s 24MB].
+var: pr
+Folder: piControl
+File: piControl/pr/regrid/pr_Amon_inmcm4_piControl_r1i1p1_185001-234912.nc
+cdo    selmonth: Processed 1 variable over 6000 timesteps [21.54s 25MB].
+cdo    selmonth: Processed 1 variable over 6000 timesteps [20.90s 25MB].
+cdo    yearsum: Processed 1 variable over 3499 timesteps [12.92s 24MB].
+cdo    yearsum: Processed 1 variable over 3499 timesteps [14.63s 24MB].
+var: pr
+Folder: piControl
+File: piControl/pr/regrid/pr_Amon_IPSL-CM5A-LR_piControl_r1i1p1_180001-279912.nc
+cdo    selmonth: Processed 1 variable over 12000 timesteps [46.23s 28MB].
+cdo    selmonth: Processed 1 variable over 12000 timesteps [59.33s 27MB].
+cdo    yearsum: Processed 1 variable over 6999 timesteps [21.92s 24MB].
+cdo    yearsum: Processed 1 variable over 6999 timesteps [26.29s 24MB].
+var: pr
+Folder: piControl
+File: piControl/pr/regrid/pr_Amon_MIROC5_piControl_r1i1p1_200001-286912.nc
+cdo    selmonth: Processed 1 variable over 6840 timesteps [26.72s 25MB].
+cdo    selmonth: Processed 1 variable over 6840 timesteps [32.20s 25MB].
+cdo    yearsum: Processed 1 variable over 3989 timesteps [12.05s 24MB].
+cdo    yearsum: Processed 1 variable over 3989 timesteps [13.42s 23MB].
+var: pr
+Folder: piControl
+File: piControl/pr/regrid/pr_Amon_MPI-ESM-LR_piControl_r1i1p1_185001-284912.nc
+cdo    selmonth: Processed 1 variable over 12000 timesteps [49.22s 27MB].
+cdo    selmonth: Processed 1 variable over 12000 timesteps [57.75s 27MB].
+cdo    yearsum: Processed 1 variable over 6999 timesteps [26.43s 25MB].
+cdo    yearsum: Processed 1 variable over 6999 timesteps [23.18s 24MB].
+var: pr
+Folder: piControl
+File: piControl/pr/regrid/pr_Amon_MPI-ESM-MR_piControl_r1i1p1_185001-284912.nc
+cdo    selmonth: Processed 1 variable over 12000 timesteps [49.55s 27MB].
+cdo    selmonth: Processed 1 variable over 12000 timesteps [55.40s 25MB].
+cdo    yearsum: Processed 1 variable over 6999 timesteps [28.77s 25MB].
+cdo    yearsum: Processed 1 variable over 6999 timesteps [25.84s 25MB].
+var: pr
+Folder: piControl
+File: piControl/pr/regrid/pr_Amon_MRI-CGCM3_piControl_r1i1p1_185101-235012.nc
+cdo    selmonth: Processed 1 variable over 6000 timesteps [25.98s 24MB].
+cdo    selmonth: Processed 1 variable over 6000 timesteps [25.68s 24MB].
+cdo    yearsum: Processed 1 variable over 3499 timesteps [11.02s 23MB].
+cdo    yearsum: Processed 1 variable over 3499 timesteps [3.16s 23MB].
+var: pr
+Folder: piControl
+File: piControl/pr/regrid/tmp.nc
+cdo    selmonth: Open failed on >piControl/pr/regrid/tmp.nc<
+                 No such file or directory
+cdo    selmonth: Open failed on >piControl/pr/regrid/tmp.nc<
+                 No such file or directory
+cdo    yearsum: Open failed on >piControl/pr/regrid/tmp.nc<
+                No such file or directory
+cdo    yearsum: Open failed on >piControl/pr/regrid/tmp_2.nc<
+                No such file or directory
+var: ts
+Folder: piControl
+File: piControl/ts/regrid/ts_Amon_CSIRO-Mk3-6-0_piControl_r1i1p1_000101-050012.nc
+cdo    selmonth: Processed 1 variable over 6000 timesteps [28.59s 24MB].
+cdo    selmonth: Processed 1 variable over 6000 timesteps [21.43s 24MB].
+cdo    yearmean: Processed 1 variable over 3499 timesteps [10.92s 23MB].
+cdo    yearmean: Processed 1 variable over 3499 timesteps [1.96s 23MB].
+var: ts
+Folder: piControl
+File: piControl/ts/regrid/ts_Amon_inmcm4_piControl_r1i1p1_185001-234912.nc
+cdo    selmonth: Processed 1 variable over 6000 timesteps [29.19s 24MB].
+cdo    selmonth: Processed 1 variable over 6000 timesteps [20.69s 24MB].
+cdo    yearmean: Processed 1 variable over 3499 timesteps [19.59s 23MB].
+cdo    yearmean: Processed 1 variable over 3499 timesteps [5.17s 23MB].
+var: ts
+Folder: piControl
+File: piControl/ts/regrid/ts_Amon_IPSL-CM5A-LR_piControl_r1i1p1_180001-279912.nc
+cdo    selmonth: Processed 1 variable over 12000 timesteps [57.41s 27MB].
+cdo    selmonth: Processed 1 variable over 12000 timesteps [51.26s 27MB].
+cdo    yearmean: Processed 1 variable over 6999 timesteps [31.55s 24MB].
+cdo    yearmean: Processed 1 variable over 6999 timesteps [27.47s 24MB].
+var: ts
+Folder: piControl
+File: piControl/ts/regrid/ts_Amon_MIROC5_piControl_r1i1p1_200001-286912.nc
+cdo    selmonth: Processed 1 variable over 10440 timesteps [44.55s 26MB].
+cdo    selmonth: Processed 1 variable over 10440 timesteps [51.28s 25MB].
+cdo    yearmean: Processed 1 variable over 6089 timesteps [27.17s 24MB].
+cdo    yearmean: Processed 1 variable over 6089 timesteps [23.70s 24MB].
+var: ts
+Folder: piControl
+File: piControl/ts/regrid/ts_Amon_MPI-ESM-LR_piControl_r1i1p1_185001-284912.nc
+cdo    selmonth: Processed 1 variable over 12000 timesteps [60.38s 27MB].
+cdo    selmonth: Processed 1 variable over 12000 timesteps [59.85s 27MB].
+cdo    yearmean: Processed 1 variable over 6999 timesteps [25.91s 24MB].
+cdo    yearmean: Processed 1 variable over 6999 timesteps [28.30s 24MB].
+var: ts
+Folder: piControl
+File: piControl/ts/regrid/ts_Amon_MPI-ESM-MR_piControl_r1i1p1_185001-284912.nc
+cdo    selmonth: Processed 1 variable over 12000 timesteps [56.40s 27MB].
+cdo    selmonth: Processed 1 variable over 12000 timesteps [60.48s 26MB].
+cdo    yearmean: Processed 1 variable over 6999 timesteps [30.33s 24MB].
+cdo    yearmean: Processed 1 variable over 6999 timesteps [27.86s 24MB].
+var: ts
+Folder: piControl
+File: piControl/ts/regrid/ts_Amon_MRI-CGCM3_piControl_r1i1p1_185101-235012.nc
+cdo    selmonth: Processed 1 variable over 6000 timesteps [29.50s 23MB].
+cdo    selmonth: Processed 1 variable over 6000 timesteps [21.75s 23MB].
+cdo    yearmean: Processed 1 variable over 3499 timesteps [9.83s 23MB].
+cdo    yearmean: Processed 1 variable over 3499 timesteps [2.24s 23MB].
+var: psl
+Folder: piControl
+File: piControl/psl/regrid/psl_Amon_CSIRO-Mk3-6-0_piControl_r1i1p1_000101-050012.nc
+cdo    selmonth: Processed 1 variable over 6000 timesteps [22.07s 23MB].
+cdo    selmonth: Processed 1 variable over 6000 timesteps [30.10s 23MB].
+cdo    yearmean: Processed 1 variable over 3499 timesteps [9.83s 23MB].
+cdo    yearmean: Processed 1 variable over 3499 timesteps [1.75s 23MB].
+var: psl
+Folder: piControl
+File: piControl/psl/regrid/psl_Amon_inmcm4_piControl_r1i1p1_185001-234912.nc
+cdo    selmonth: Processed 1 variable over 6000 timesteps [28.40s 23MB].
+cdo    selmonth: Processed 1 variable over 6000 timesteps [26.90s 23MB].
+cdo    yearmean: Processed 1 variable over 3499 timesteps [11.29s 22MB].
+cdo    yearmean: Processed 1 variable over 3499 timesteps [1.79s 23MB].
+var: psl
+Folder: piControl
+File: piControl/psl/regrid/psl_Amon_IPSL-CM5A-LR_piControl_r1i1p1_180001-279912.nc
+cdo    selmonth: Processed 1 variable over 12000 timesteps [62.30s 26MB].
+cdo    selmonth: Processed 1 variable over 12000 timesteps [58.56s 26MB].
+cdo    yearmean: Processed 1 variable over 6999 timesteps [25.14s 24MB].
+cdo    yearmean: Processed 1 variable over 6999 timesteps [29.10s 24MB].
+var: psl
+Folder: piControl
+File: piControl/psl/regrid/psl_Amon_MIROC5_piControl_r1i1p1_200001-286912.nc
+cdo    selmonth: Processed 1 variable over 10440 timesteps [51.21s 25MB].
+cdo    selmonth: Processed 1 variable over 10440 timesteps [51.98s 25MB].
+cdo    yearmean: Processed 1 variable over 6089 timesteps [19.91s 24MB].
+cdo    yearmean: Processed 1 variable over 6089 timesteps [27.31s 24MB].
+var: psl
+Folder: piControl
+File: piControl/psl/regrid/psl_Amon_MPI-ESM-LR_piControl_r1i1p1_185001-284912.nc
+cdo    selmonth: Processed 1 variable over 12000 timesteps [57.98s 26MB].
+cdo    selmonth: Processed 1 variable over 12000 timesteps [61.56s 27MB].
+cdo    yearmean: Processed 1 variable over 6999 timesteps [24.28s 24MB].
+cdo    yearmean: Processed 1 variable over 6999 timesteps [31.27s 24MB].
+var: psl
+Folder: piControl
+File: piControl/psl/regrid/psl_Amon_MPI-ESM-MR_piControl_r1i1p1_185001-284912.nc
+cdo    selmonth: Processed 1 variable over 12000 timesteps [62.24s 26MB].
+cdo    selmonth: Processed 1 variable over 12000 timesteps [64.61s 25MB].
+cdo    yearmean: Processed 1 variable over 6999 timesteps [23.70s 24MB].
+cdo    yearmean: Processed 1 variable over 6999 timesteps [30.00s 24MB].
+var: psl
+Folder: piControl
+File: piControl/psl/regrid/psl_Amon_MRI-CGCM3_piControl_r1i1p1_185101-235012.nc
+cdo    selmonth: Processed 1 variable over 6000 timesteps [30.17s 24MB].
+cdo    selmonth: Processed 1 variable over 6000 timesteps [24.55s 23MB].
+cdo    yearmean: Processed 1 variable over 3499 timesteps [7.21s 23MB].
+cdo    yearmean: Processed 1 variable over 3499 timesteps [1.91s 23MB].
+
